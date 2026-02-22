@@ -4,6 +4,8 @@ A modern business dashboard built with **Next.js + TypeScript + Recharts**.
 
 ## 🚀 Overview
 
+https://businesskpianalyzer.vercel.app/
+
 This project simulates a corporate KPI dashboard that analyzes:
 
 - Monthly revenue
